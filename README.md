@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Felipe Rocha
 - 🔭 Pretendo trabalhar com front-end
-- 🌱 Atualmente estou aprnedendo HTML e CSS
+- 🌱 Atualmente estou aprendendo HTML e CSS
 <div align="center">
   <a href="https://github.com/feliperocha00">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feliperocha00&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
