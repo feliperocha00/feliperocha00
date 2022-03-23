@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Felipe Rocha
-- 🔭 Pretendo trabalhar com front-end
-- 🌱 Atualmente estou aprendendo HTML e CSS
-<div align="center">
+-🌐 Atuo na área de Front-End
+-💠 Tenho conhecimento em: HTML, CSS, JavaScript, C#.
+
   <a href="https://github.com/feliperocha00">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feliperocha00&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperocha00&layout=compact&langs_count=7&theme=synthwave"/>
