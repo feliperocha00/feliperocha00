@@ -1,5 +1,11 @@
 ### Olá! Meu nome é Felipe Rocha
--Languages: HTML, CSS, JavaScript, C#.
+
+-🧑‍🏫 Estudante de Análise e Desenvolvimento de Sistemas.
+
+-📍 Itaquaquecetuba - SP
+
+-#️⃣ Conhecimento em HTML, CSS, JavaScript, C#.
+
 <div align="center">
   <a href="https://github.com/feliperocha00">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=feliperocha00&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
