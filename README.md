@@ -4,7 +4,7 @@
 
 -📍 Itaquaquecetuba - SP
 
--#️⃣ Conhecimento em HTML, CSS, JavaScript, C#.
+-#️⃣ Conhecimento em Python, Odoo, C#, HTML, CSS, JavaScript.
 
 <div align="center">
   <a href="https://github.com/feliperocha00">
