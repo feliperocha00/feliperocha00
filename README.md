@@ -6,9 +6,9 @@
 
 -#️⃣ Conhecimento em Python, Odoo, C#, HTML, CSS, JavaScript.
 
-<div style="content-align: center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=feliperocha00&theme=windows-dark&locale=pt_BR)](https://git.io/streak-stats)
-</div>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=feliperocha00&theme=windows-dark&locale=pt_BR)](https://git.io/streak-stats)
+
+
   ##
   
 <div>
