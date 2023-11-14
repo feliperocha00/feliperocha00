@@ -4,7 +4,7 @@
 
 -📍 Itaquaquecetuba - SP
 
--#️⃣ Conhecimento em Python, Odoo, C#, HTML, CSS, JavaScript.
+-#️⃣ Conhecimento em Python, Odoo Framework, C#, HTML, CSS, JavaScript, Java.
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=feliperocha00&theme=windows-dark&locale=pt_BR)](https://git.io/streak-stats)
 
