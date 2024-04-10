@@ -20,7 +20,6 @@
  <div>
   <a href = "#"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" target="_blank"></a>
   <a href = "#"><img src="https://img.shields.io/badge/Odoo-714B67.svg?style=for-the-badge&logo=Odoo&logoColor=white" target="_blank"></a>
-  <a href = "#"><img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" target="_blank"></a>
  </div>
 
   ## Databases
