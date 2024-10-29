@@ -5,7 +5,7 @@
 -💼 Desenvolvedor Full Stack Junior
 
 -📍 Itaquaquecetuba - SP
-  ## IDE´s
+  ## IDE´s & Code Editors
 
  <div>
    <a href = "#"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" target="_blank"></a>
