@@ -9,8 +9,12 @@
   ## Technologies
   
  <div>
-  <a href = "#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" target="_blank"></a>
   <a href = "#"><img src="https://img.shields.io/badge/Odoo-714B67.svg?style=for-the-badge&logo=Odoo&logoColor=white" target="_blank"></a>
+  <a href = "#"><img src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white" target="_blank"></a>
+  <a href = "#"><img src="https://img.shields.io/badge/KivyMD-757575.svg?style=for-the-badge&logo=Material-Design&logoColor=white" target="_blank"></a>
+  <a href = "#"><img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" target="_blank"></a>
+  <a href = "#"><img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" target="_blank"></a>
+  <a href = "#"><img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" target="_blank"></a>
  </div>
 
   ## Databases
