@@ -1,24 +1,15 @@
-### Olá! Meu nome é Felipe Rocha
+### Hello World! My name is Felipe Rocha
 
--🧑‍🏫 Formado em Tecnologia de Análise e Desenvolvimento de Sistemas.
+-🧑‍🏫 Technologist Diploma in Software Development and Analysis.
 
--💼 Desenvolvedor Full Stack Junior
+-🐍 Backend Python Developer
 
--📍 Itaquaquecetuba - SP
-  ## IDE´s & Code Editors
-
- <div>
-   <a href = "#"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" target="_blank"></a>
-   <a href = "#"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
-   <a href = "#"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" target="_blank"></a>
-   <a href = "#"><img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" target="_blank"></a>
-   <a href = "#"><img src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white" target="_blank"></a>
- </div>
+-📍 Itaquaquecetuba, São Paulo - Brazil
  
-  ## Frameworks
+  ## Technologies
   
  <div>
-  <a href = "#"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" target="_blank"></a>
+  <a href = "#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" target="_blank"></a>
   <a href = "#"><img src="https://img.shields.io/badge/Odoo-714B67.svg?style=for-the-badge&logo=Odoo&logoColor=white" target="_blank"></a>
  </div>
 
@@ -26,7 +17,6 @@
 
  <div>
   <a href = "#"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" target="_blank"></a>
-  <a href = "#"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
   <a href = "#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>
  </div>
 
